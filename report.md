@@ -117,8 +117,8 @@ where
 
 ### Result
 After around 1300 episodes the avg score_deque(100) get higher than 0.5
-![scores on episodes](score1.png)
-![average score on most recent 100 scores](score2.png)
+![scores on episodes](score1_1.png)
+![average score on most recent 100 scores](score1_2.png)
 
 ### Ideas for Future Work
 
