@@ -116,7 +116,7 @@ where
 - Tennis.ipynb puts togheter all the pieces to build and train the agent.
 
 ### Result
-After around 1300 episodes the avg score_deque(100) get higher than 0.5
+After around 1100 episodes the avg score_deque(100) get higher than 0.5
 ![scores on episodes](score1_1.png)
 ![average score on most recent 100 scores](score1_2.png)
 
